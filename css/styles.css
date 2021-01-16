@@ -3,6 +3,9 @@ body {
 	font-family: "Times New Roman";
 	font-color: #800080;
 }
+p{
+	font-color: #FF0000;
+}
 h1{
 	border-bottom: 3px solid blue;
 	font-color: #FF0000;
