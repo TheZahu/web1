@@ -1,22 +1,25 @@
 body {
-	background-color: #000000;
+	background-color: #FF851B;
 	font-style: roman;
-	color: red;
+	color: blue;
 }
 p{
-
+	text-decoration-color: white;
 }
 h1{
-	border-bottom: 3px solid blue;
+	border-bottom: 3px solid red;
 	font-color: #FF0000;
 	font-size: 16px;
 }
 a{
-	color: pink;
+	color: black;
 }
 a:hover{
 	background-color: purple;
 }
 figure{
 	font-style: italic;
+}
+u{
+	font-color: #FF0000;
 }
