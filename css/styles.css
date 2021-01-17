@@ -23,3 +23,20 @@ figure{
 u{
 	font-color: #FF0000;
 }
+blockquote {
+    margin: 0;
+}
+
+blockquote p {
+    padding: 12px;
+    background: #808080;
+    border-radius: 5px;
+}
+
+blockquote p::before {
+    content: '\201C';
+}
+
+blockquote p::after {
+    content: '\201D';
+}
