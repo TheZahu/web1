@@ -10,7 +10,7 @@ a {
     
 #banner {
         background-image: linear-gradient( rgb(63, 63, 63), rgb(41, 41, 41));
-        height: 80px;
+  
     }
     
 #navi {
@@ -24,6 +24,7 @@ a {
         border-style: solid;
         border-color: whitesmoke;
     }
+
 #put table here{
 	display: table;
 	margin: 0 auto;
@@ -32,14 +33,19 @@ a {
 footer{
 	text-align: center;
 	color: white;
+	height: 100px;
 }
+
 header{
+    	height: 200px;	
 	text-align: center; 
 	color: white;
 }
+
 article{
 	font-weight: bold;
 }
-	.box {
+
+.box {
 	padding: 20px;
 }
