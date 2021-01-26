@@ -1,0 +1,45 @@
+body {
+        font-family: Helvetica;
+        color: rgb(22, 22, 22);
+        background-color: rgb(41, 41, 41);
+    }
+	
+a {
+        color: black;
+    }
+    
+#banner {
+        background-image: linear-gradient( rgb(63, 63, 63), rgb(41, 41, 41));
+        height: 80px;
+    }
+    
+#navi {
+        background-color: rgb(63, 63, 63);
+        text-align: center;
+        padding: 0px 1px 0px 1px;
+    }
+    
+    #navi div {
+        text-align: center;
+        border-style: solid;
+        border-color: whitesmoke;
+    }
+#put table here{
+	display: table;
+	margin: 0 auto;
+}
+
+footer{
+	text-align: center;
+	color: white;
+}
+header{
+	text-align: center; 
+	color: white;
+}
+article{
+	font-weight: bold;
+}
+	.box {
+	padding: 20px;
+}
